@@ -1,0 +1,29 @@
+Footnotes for Census Journey to Work 
+
+   o The Journey to Work estimates are based on Census Bureau decennial censuses. 
+     Source: U.S. Census Bureau, Population Division, Journey-To-Work and 
+     Migration Statistics Branch 
+   
+   o Other Countries— Composed of foreign countries with the exception of Canada 
+     and Mexico. It also excludes excludes Puerto Rico, US Virgin Islands, and 
+     workers at sea. 
+   o At Sea— Composed of U.S. residents who worked at sea during the week prior 
+     to the completion of the decennial census questionaire. 
+     
+   o Elsewhere— Composed of the total of non-continuous State commuting flows, 
+     each involving less than ten workers. 
+     
+   o Not Reported— Location of work not self-reported in the Census. This 
+     category only exists in 1970; not reported flows were statistically 
+     allocated in the 1980 and 1990 Census. 
+     
+(D) Suppressed by the U.S. Census Bureau in order to avoid disclosure of 
+    confidential information. This type of suppression occurs only when data for 
+    workers is provided but wage data is suppressed; this is different from the 
+    suppression of both worker and wage data. For more information please contact 
+    Katherine Harper at (202) 606-5360. 
+    
+Regional Economic Information System
+Bureau of Economic Analysis
+Census Journey to Work
+August 2004 
